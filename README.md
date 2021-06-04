@@ -1,4 +1,4 @@
-<p align="center"><img src="43299220-4B50-4BAF-8D1A-8515F589A61B.png">
+<p align="center"><img src="43299220-4B50-4BAF-8D1A-8515F589A61B.png" style="width: 64;height: 64;">
 
 Hello! I am @PoIygon but you can call me Polygon
   
