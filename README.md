@@ -1,9 +1,17 @@
-<p align="center"><img src="43299220-4B50-4BAF-8D1A-8515F589A61B.png" width="64" height="64"></p>
+# Hello 👋 I’m Polygon
 
-<p align="center"><strong>Hello! I am @PoIygon but you can call me Polygon</strong></p>
+<img align="right" width="425" src="https://aspectos.github.io/images/PixelBookGo.png"/>
 
-
-<p align="center"><a href="https://github-readme-stats.vercel.app"><img src="https://github-readme-stats.vercel.app/api?username=PoIygon&show_icons=true&theme=dark"></a></p>
-
-
-<p align="center"><strong>I am currently learning html and css so i can make my website over here!: PoIygon.github.io/pages/Home/</strong></p>
+```js
+fetch('https://polygon')
+  .then(res => res.json())
+  .then(data => {
+    if (data.error) {
+      alert("Polygon is not available right now");
+    }
+      document.getElementById("user").innerText = "Polygon";
+      document.getElementById("country").innerText = "Australia";
+      document.getElementById("description").innerText = "I am a person that likes to make lots of small projects";
+      document.getElementById("languages").innerText = "html" + "css" + "js";
+    });
+```
