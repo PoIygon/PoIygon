@@ -1,6 +1,6 @@
 # Hello 👋 I’m Polygon
 
-<img align="right" width="425" src="https://aspectos.github.io/images/PixelBookGo.png"/>
+<img align="right" width="325" src="https://aspectos.github.io/images/PixelBookGo.png"/>
 
 ```js
 fetch('https://polygon')
