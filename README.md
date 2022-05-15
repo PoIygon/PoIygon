@@ -15,3 +15,8 @@ fetch('https://polygon')
       document.getElementById("languages").innerText = "html" + "css" + "js";
     });
 ```
+## Stuff that I like working on:
+<a href="https://github.com/PoIygon/PoIygon.github.io"><img align="right" src="https://gh-card.dev/repos/PoIygon/PoIygon.github.io.svg"></a>
+<a href="https://github.com/PoIygon/Flyer"><img src="https://gh-card.dev/repos/PoIygon/Flyer.svg"></a>
+<a href="https://github.com/PoIygon/h"><img align="right" src="https://gh-card.dev/repos/PoIygon/h.svg"></a>
+<a href="https://github.com/PoIygon/rainbowcss"><img src="https://gh-card.dev/repos/PoIygon/rainbowcss.svg"></a>
